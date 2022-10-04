@@ -1,37 +1,9 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@BillNobill 
-rafaballerini
-/
-rafaballerini
-Public
-Code
-Issues
-9
-Pull requests
-17
-Actions
-Projects
-Security
-Insights
-rafaballerini/README.md
-@rafaballerini
-rafaballerini Update README.md
-Latest commit 3703d0e on 17 Nov 2021
- History
- 1 contributor
-30 lines (26 sloc)  3.1 KB
 
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Olá, eu sou Luiz Henrique Zavatini Feltrin (vulgo BillNobill) e estudo programação no IFPR.
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/BillNobill">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BillNobill&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BillNobill&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
