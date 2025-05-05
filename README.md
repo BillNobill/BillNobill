@@ -1,5 +1,5 @@
 
-## Olá, eu sou Luiz Henrique Zavatini Feltrin (vulgo BillNobill) e faço Técnico em Informática para WEB no IFPR.
+## Olá, eu sou Luiz Henrique Zavatini Feltrin (vulgo BillNobill), sou fomado no Técnico em Informática para WEB no IFPR e atualmente faço Inteligência Artificial no Biopark.
 <div align="center">
   <a href="https://github.com/BillNobill">
 </div>
