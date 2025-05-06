@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🔭 Atualmente desenvolvo projetos com foco em educação, dados e inteligência artificial.<br>
+  🔭 Atualmente desenvolvo projetos com foco em educação, desenvolvimento, dados e inteligência artificial.<br>
   💬 Apaixonado por programação full stack e soluções criativas!
 </p>
 
