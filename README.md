@@ -15,25 +15,17 @@
 
 ## 🚀 Tecnologias que eu utilizo
 
-<div style="display: flex; gap: 10px;" align="center">
-  <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Dart" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img alt="Flutter" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Firebase" height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-  <img alt="PostgreSQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img alt="VueJS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img alt="GitHub" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img alt="Figma" height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,dart,flutter,html,css,js,mysql,vue,firebase,figma,github,postgres" alt="My Skills" />
+  </a>
+</p>
 
 ---
 
 ## 🌐 Onde me encontrar
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/BillNobill" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
@@ -49,7 +41,7 @@
   <a href="mailto:zavatini.feltrin@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</div>
+</p>
 
 ---
 
@@ -62,4 +54,3 @@
 <p align="center">
   <img src="https://github.com/BillNobill/BillNobill/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
-
