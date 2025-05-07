@@ -51,6 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=BillNobill&show_icons=true&theme=github_dark" alt="GitHub Stats">
 </p>
 
-<p align="center">
+
  ![snake svg](https://github.com/BillNobill/BillNobill/blob/output/github-contribution-grid-snake.svg)
-</p>
+
