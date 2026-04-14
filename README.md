@@ -48,7 +48,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=BillNobill&show_icons=true&theme=github_dark](https://github-readme-stats-eight-theta.vercel.app/api?username=BillNobill&show_icons=true&theme=github_dark)" alt="GitHub Stats">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BillNobill&show_icons=true&theme=github_dark" alt="GitHub Stats">
 </p>
 
 
