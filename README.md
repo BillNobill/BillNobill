@@ -3,7 +3,7 @@
 
 <p align="center">
   🎓 Técnico em Informática para Web pelo IFPR<br>
-  🤖 Estudante de Inteligência Artificial no Biopark Educação<br>
+  🤖 Estudante de Inteligência Artificial na Faculdade Donaduzzi<br>
 </p>
 
 <p align="center">
