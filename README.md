@@ -1,56 +1,85 @@
-<h1 align="center">Olá! Eu sou o Luiz Henrique Zavatini Feltrin 👋</h1>
-<h3 align="center">(vulgo BillNobill)</h3>
+<div align="center">
 
-<p align="center">
-  🎓 Técnico em Informática para Web pelo IFPR<br>
-  🤖 Estudante de Inteligência Artificial na Faculdade Donaduzzi<br>
-</p>
+<!-- 01. HEADER: BANNER DINÂMICO -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=7aa2f7&center=true&vCenter=true&width=1000&height=120&lines=Luiz+Henrique+Zavatini+Feltrin;Full+Stack+Developer;AI+%26+Data+Science+Student;Building+the+Future+with+AI" alt="Typing SVG" />
 
-<p align="center">
-  🔭 Atualmente desenvolvo projetos com foco em educação, desenvolvimento, dados e inteligência artificial.<br>
-  💬 Apaixonado por programação full stack e soluções criativas!
-</p>
+<br>
+
+<!-- 02. ACTIVITY: SNAKE ANIMATION -->
+<img src="https://raw.githubusercontent.com/BillNobill/BillNobill/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%">
+
+<br>
+
+<!-- 03. IDENTITY: STATUS PROTOCOL -->
+<div align="left" style="width: 80%; margin: 0 auto;">
+
+### ⚡ Current Protocol
+```yaml
+focus: "Artificial Intelligence & Data Science @ Faculdade Donaduzzi"
+stack: ["Python", "C++", "Supabase", "Flutter", "PyTorch"]
+activity: "Developing Intelligent Agents & IoT Monitoring Systems"
+passion: "Merging Hardware, AI, and Creative Engineering"
+```
+</div>
+
+<br>
 
 ---
 
-## 🚀 Tecnologias que eu utilizo
+<!-- 04. KNOWLEDGE: TECHNICAL ECOSYSTEM -->
+### 🛠️ Technical Ecosystem
 
 <p align="center">
+  <b>Core Development</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,dart,flutter,html,css,js,mysql,vue,firebase,figma,github,postgres" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,dart,flutter,js,vue,supabase,postgres,mysql,firebase,figma,github,git" />
   </a>
+</p>
+
+<p align="center">
+  <b>AI & Data Research</b><br>
+  <img src="https://img.shields.io/badge/Pandas-7aa2f7?style=for-the-badge&logo=pandas&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/NumPy-7aa2f7?style=for-the-badge&logo=numpy&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-7aa2f7?style=for-the-badge&logo=scikit-learn&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/PyTorch-7aa2f7?style=for-the-badge&logo=pytorch&logoColor=0d1117" />
 </p>
 
 ---
 
-## 🌐 Onde me encontrar
+<!-- 05. METRICS: ENGINEERING DASHBOARD -->
+### 📊 Engineering Metrics
 
 <p align="center">
-  <a href="https://github.com/BillNobill" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/channel/UCI_FzK7ID_KQSvtSYm84KoQ" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/luizhzf/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.twitch.tv/billnobill" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-  </a>
-  <a href="mailto:zavatini.feltrin@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BillNobill&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=7aa2f7&text_color=9aa5ce&icon_color=7aa2f7&border_color=0D1117&hide_border=true" height="150" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BillNobill&theme=tokyonight&background=0D1117&ring=7aa2f7&fire=7aa2f7&currStreakNum=9aa5ce" height="150" alt="Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BillNobill&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=7aa2f7&text_color=9aa5ce&icon_color=7aa2f7&border_color=0D1117&hide_border=true" height="150" alt="Langs" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+<!-- 06. SHOWCASE: FEATURED REPOSITORIES -->
+### 🌟 Featured Repositories
+
+| 🚀 [gemini-windows-notifier](https://github.com/BillNobill/gemini-windows-notifier) | 📦 [mcp-trello](https://github.com/BillNobill/mcp-trello) | 🔬 [gasense](https://github.com/BillNobill/gasense) |
+| :--- | :--- | :--- |
+| **Native Windows Toast** alerts for Gemini CLI. Parity with macOS notifications and smart AI summaries. | **MCP Integration** for Trello automation. Auto-generate sprint reports and manage cards via AI. | **IoT Sensing System** for gas monitoring. Real-time alerts and data analysis for industrial safety. |
+| `PowerShell` `WinRT` `AI` | `Node.js` `MCP` `Productivity` | `C++` `IoT` `Data Analysis` |
+
+<br>
+
+---
+
+<!-- 07. CONTACT: SOCIAL BAR -->
+### 📫 Connect with me
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BillNobill&show_icons=true&theme=dark" alt="GitHub Stats">
+  <a href="https://github.com/BillNobill"><img src="https://img.shields.io/badge/GitHub-7aa2f7?style=flat-square&logo=github&logoColor=0d1117" /></a>
+  <a href="https://www.linkedin.com/in/luizhf/"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=flat-square&logo=linkedin&logoColor=0d1117" /></a>
+  <a href="https://www.instagram.com/luizhzf/"><img src="https://img.shields.io/badge/Instagram-7aa2f7?style=flat-square&logo=instagram&logoColor=0d1117" /></a>
+  <a href="https://www.youtube.com/channel/UCI_FzK7ID_KQSvtSYm84KoQ"><img src="https://img.shields.io/badge/YouTube-7aa2f7?style=flat-square&logo=youtube&logoColor=0d1117" /></a>
+  <a href="mailto:zavatini.feltrin@gmail.com"><img src="https://img.shields.io/badge/Gmail-7aa2f7?style=flat-square&logo=gmail&logoColor=0d1117" /></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=BillNobill&label=Views&color=7aa2f7&style=flat-square" alt="Views" />
 
-![snake svg](https://github.com/BillNobill/BillNobill/blob/output/github-contribution-grid-snake.svg)
-
+</div>
