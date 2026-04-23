@@ -18,35 +18,54 @@
 focus: "Artificial Intelligence & Data Science @ Faculdade Donaduzzi"
 stack: ["Python", "C++", "Supabase", "Flutter", "PyTorch"]
 activity: "Developing Intelligent Agents & IoT Monitoring Systems"
-passion: "Merging Hardware, AI, and Creative Engineering"
 ```
 </div>
 
-<br>
+<hr style="border: 0; height: 1px; background: #30363d; margin: 20px 0;">
 
----
+<!-- 04. HUMANIZATION: THE HUMAN PROTOCOL -->
+<div align="left" style="width: 80%; margin: 0 auto;">
 
-<!-- 04. KNOWLEDGE: TECHNICAL ECOSYSTEM -->
+### 🚲 Human Protocol
+```yaml
+origin: "Toledo, PR - Brazil"
+journey: "Technician in Informatics (IFPR) ➜ AI Engineering Student"
+passions: ["BMX Freestyle", "Hardware Hacking", "Creative Logic"]
+philosophy: "Just like in BMX, in code, the trick is in the persistence and the clean execution."
+```
+</div>
+
+<hr style="border: 0; height: 1px; background: #30363d; margin: 20px 0;">
+
+<!-- 05. KNOWLEDGE: TECHNICAL ECOSYSTEM (PADRONIZADO TOKYONIGHT) -->
 ### 🛠️ Technical Ecosystem
 
 <p align="center">
-  <b>Core Development</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,dart,flutter,js,vue,supabase,postgres,mysql,firebase,figma,github,git" />
-  </a>
+  <b>Core Development & Systems</b><br>
+  <img src="https://img.shields.io/badge/Python-7aa2f7?style=for-the-badge&logo=python&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/C++-7aa2f7?style=for-the-badge&logo=c%2B%2B&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/JavaScript-7aa2f7?style=for-the-badge&logo=javascript&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Dart-7aa2f7?style=for-the-badge&logo=dart&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Flutter-7aa2f7?style=for-the-badge&logo=flutter&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Vue.js-7aa2f7?style=for-the-badge&logo=vuedotjs&logoColor=0d1117" />
+  <br>
+  <img src="https://img.shields.io/badge/Supabase-7aa2f7?style=for-the-badge&logo=supabase&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/PostgreSQL-7aa2f7?style=for-the-badge&logo=postgresql&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Firebase-7aa2f7?style=for-the-badge&logo=firebase&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Git-7aa2f7?style=for-the-badge&logo=git&logoColor=0d1117" />
 </p>
 
 <p align="center">
   <b>AI & Data Research</b><br>
   <img src="https://img.shields.io/badge/Pandas-7aa2f7?style=for-the-badge&logo=pandas&logoColor=0d1117" />
   <img src="https://img.shields.io/badge/NumPy-7aa2f7?style=for-the-badge&logo=numpy&logoColor=0d1117" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-7aa2f7?style=for-the-badge&logo=scikit-learn&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-7aa2f7?style=for-the-badge&logo=scikit-learn&logoColor=0d1117" />   
   <img src="https://img.shields.io/badge/PyTorch-7aa2f7?style=for-the-badge&logo=pytorch&logoColor=0d1117" />
 </p>
 
----
+<hr style="border: 0; height: 1px; background: #30363d; margin: 20px 0;">
 
-<!-- 05. METRICS: ENGINEERING DASHBOARD -->
+<!-- 06. METRICS: ENGINEERING DASHBOARD -->
 ### 📊 Engineering Metrics
 
 <p align="center">
@@ -55,9 +74,9 @@ passion: "Merging Hardware, AI, and Creative Engineering"
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BillNobill&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=7aa2f7&text_color=9aa5ce&icon_color=7aa2f7&border_color=0D1117&hide_border=true" height="150" alt="Langs" />
 </p>
 
----
+<hr style="border: 0; height: 1px; background: #30363d; margin: 20px 0;">
 
-<!-- 06. SHOWCASE: FEATURED REPOSITORIES -->
+<!-- 07. SHOWCASE: FEATURED REPOSITORIES -->
 ### 🌟 Featured Repositories
 
 | 🚀 [gemini-windows-notifier](https://github.com/BillNobill/gemini-windows-notifier) | 📦 [mcp-trello](https://github.com/BillNobill/mcp-trello) | 🔬 [gasense](https://github.com/BillNobill/gasense) |
@@ -67,9 +86,9 @@ passion: "Merging Hardware, AI, and Creative Engineering"
 
 <br>
 
----
+<hr style="border: 0; height: 1px; background: #30363d; margin: 20px 0;">
 
-<!-- 07. CONTACT: SOCIAL BAR -->
+<!-- 08. CONTACT: SOCIAL BAR -->
 ### 📫 Connect with me
 
 <p align="center">
